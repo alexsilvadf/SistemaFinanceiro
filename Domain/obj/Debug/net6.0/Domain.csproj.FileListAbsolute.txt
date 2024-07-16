@@ -1,0 +1,12 @@
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Domain\bin\Debug\net6.0\Domain.dll
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Domain\obj\Debug\net6.0\Domain.dll
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Domain\obj\Debug\net6.0\ref\Domain.dll

@@ -1,0 +1,12 @@
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Helpers\bin\Debug\net6.0\Helpers.deps.json
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Helpers\bin\Debug\net6.0\Helpers.dll
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Helpers\bin\Debug\net6.0\Helpers.pdb
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Helpers\obj\Debug\net6.0\Helpers.csproj.AssemblyReference.cache
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Helpers\obj\Debug\net6.0\Helpers.dll
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Helpers\obj\Debug\net6.0\Helpers.pdb
+C:\Cursos\C#\Dev Net Core\Financeiro.API\Financeiro\Helpers\obj\Debug\net6.0\ref\Helpers.dll
